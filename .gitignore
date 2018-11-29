@@ -1,0 +1,9 @@
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Cached python scripts
+__pycache__
+
+# if using venv
+.env
